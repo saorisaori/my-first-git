@@ -1,0 +1,3 @@
+'usestrict'
+
+alert('わはは');
